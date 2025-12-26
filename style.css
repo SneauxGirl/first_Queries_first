@@ -59,7 +59,7 @@ body, html {
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
-    gap:
+    gap: 20px
 }
 
 .header__btnGrp--submit {
